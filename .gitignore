@@ -1,0 +1,13 @@
+*.avi
+*.mpg
+*.mov
+*.m1v
+*.mp2
+/CDI_IMAG.RTF
+/CDI_TEXT.FNT
+/CDI_VCD.APP
+/icdia.htm
+/vcd_on_cdi_41.pdf
+/vcd_on_cdi_411.zip
+*.bin
+*.cue

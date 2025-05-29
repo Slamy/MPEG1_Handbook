@@ -1,0 +1,15 @@
+{
+    "cSpell.words": [
+        "artefacts",
+        "demuxing",
+        "mencoder",
+        "mplex",
+        "NTSC",
+        "remux",
+        "remuxing",
+        "TMPG"
+    ],
+    "markdown.copyFiles.destination": {
+        "/**/*": "img/"
+    }
+}
