@@ -28,6 +28,8 @@ to have it encoded at a quality better than `FFmpeg` can do for example.
 
 * Browse for your Video Source
 * Select Stream type `ES [Video only]`
+* Open Settings and go to the Video tab
+* Set `VBV buffer size` to something in between 36 and 39.
 
 The result will be a `*.m1v` file you can use with `pink`
 
