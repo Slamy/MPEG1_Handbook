@@ -14,6 +14,12 @@ encoding tools like `FFmpeg` don't provide acceptable results.
 
 The tutorials are written with Linux in mind. Nevertheless, most of the info is applicable on other systems as well.
 
+## Open questions
+
+* How to process 24 FPS video material
+* Why is the seeking not working in the CD-i movie player
+* Pixel aspect ratio with PAL vs NTSC
+
 ## Prerequisites for the examples
 
 This handbook provides examples to encode the free short movie [Big Buck Bunny](https://peach.blender.org/).
@@ -60,3 +66,4 @@ You can also use `wget` on the terminal for download:
 * [Mentions of FFmpeg failing with I-Frame quality in 2007](https://ffmpeg-user.ffmpeg.narkive.com/kz70RuoG/mpeg-1-video-quality-vs-tmpgenc)
 * [Big Buck Bunny](https://peach.blender.org/)
 * [Big Buck Bunny Downloads](https://download.blender.org/peach/bigbuckbunny_movies/)
+* [MPEG1 requirements for CD-i](https://www.icdia.co.uk/cdprosupport/encoding/pink/mpeg1_specs.htm)
