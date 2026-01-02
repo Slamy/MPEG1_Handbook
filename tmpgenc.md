@@ -44,6 +44,8 @@ It probably is not enforcing the required muxing rate.
 
 * Browse for your Video Source
 * Select stream type `ES [Video only]`
+* Open Settings and go to the Video tab
+* Set `VBV buffer size` to something in between 36 and 39.
 
 The result will be a `.m1v` file. Use either `mplex` or the remuxing described below to create the full stream.
 
